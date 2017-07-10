@@ -1,0 +1,21 @@
+﻿Build started 8/6/2016 10:40:23 PM.
+     1>Project "C:\Users\AhmedB\Desktop\University work\Semester 2\Bio_Data\Biodata\Biodata\Biodata.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Biodata.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt source.cpp
+         source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\AhmedB\Desktop\University work\Semester 2\Bio_Data\Biodata\Debug\Biodata.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Biodata.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\AhmedB\Desktop\University work\Semester 2\Bio_Data\Biodata\Debug\Biodata.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\AhmedB\Desktop\University work\Semester 2\Bio_Data\Biodata\Debug\Biodata.lib" /MACHINE:X86 Debug\source.obj
+         LINK : C:\Users\AhmedB\Desktop\University work\Semester 2\Bio_Data\Biodata\Debug\Biodata.exe not found or not built by the last incremental link; performing full link
+         Biodata.vcxproj -> C:\Users\AhmedB\Desktop\University work\Semester 2\Bio_Data\Biodata\Debug\Biodata.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\AhmedB\Desktop\University work\Semester 2\Bio_Data\Biodata\Debug\Biodata.exe;#1" /manifest Debug\Biodata.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Biodata.unsuccessfulbuild".
+         Touching "Debug\Biodata.lastbuildstate".
+     1>Done Building Project "C:\Users\AhmedB\Desktop\University work\Semester 2\Bio_Data\Biodata\Biodata\Biodata.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.14

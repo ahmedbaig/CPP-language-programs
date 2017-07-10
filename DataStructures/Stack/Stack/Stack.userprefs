@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Stack/Stack.vcxproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|Win32" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Stack/Source.cpp">
+    <Files>
+      <File FileName="Stack/Source.cpp" Line="19" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

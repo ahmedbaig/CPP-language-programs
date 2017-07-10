@@ -1,0 +1,23 @@
+﻿Build started 8/18/2016 5:15:02 AM.
+     1>Project "C:\Users\AhmedB\Desktop\University work\Semester 2\Computer_Programming\Programs\User-Defined_types\User-Defined_types\User-Defined_types.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\User-Defined_types.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt source.cpp
+         source.cpp
+     1>c:\users\ahmedb\desktop\university work\semester 2\computer_programming\programs\user-defined_types\user-defined_types\source.cpp(15): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\conio.h(128) : see declaration of 'getch'
+     1>c:\users\ahmedb\desktop\university work\semester 2\computer_programming\programs\user-defined_types\user-defined_types\source.cpp(101): warning C4700: uninitialized local variable 'B' used
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\AhmedB\Desktop\University work\Semester 2\Computer_Programming\Programs\User-Defined_types\Debug\User-Defined_types.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\User-Defined_types.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\AhmedB\Desktop\University work\Semester 2\Computer_Programming\Programs\User-Defined_types\Debug\User-Defined_types.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\AhmedB\Desktop\University work\Semester 2\Computer_Programming\Programs\User-Defined_types\Debug\User-Defined_types.lib" /MACHINE:X86 Debug\source.obj
+         User-Defined_types.vcxproj -> C:\Users\AhmedB\Desktop\University work\Semester 2\Computer_Programming\Programs\User-Defined_types\Debug\User-Defined_types.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\AhmedB\Desktop\University work\Semester 2\Computer_Programming\Programs\User-Defined_types\Debug\User-Defined_types.exe;#1" /manifest "Debug\User-Defined_types.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\User-Defined_types.unsuccessfulbuild".
+         Touching "Debug\User-Defined_types.lastbuildstate".
+     1>Done Building Project "C:\Users\AhmedB\Desktop\University work\Semester 2\Computer_Programming\Programs\User-Defined_types\User-Defined_types\User-Defined_types.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.99
